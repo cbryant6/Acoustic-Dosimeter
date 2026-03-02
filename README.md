@@ -71,7 +71,7 @@ A two-device, wireless **acoustic dosimeter** that estimates cumulative sound ex
 **How the two devices communicate:** The sensing node transmits an exposure index (0-100) over ESP-NOW (or BLE) at a low update rate; the display node acknowledges receipt (optional) and uses smoothing before commanding the stepper position. This keeps the link reliable and low-power while preserving privacy by keeping raw audio on the sensing device.
 
 ***Intro Code***
-
+```
 
 #include <WiFi.h>
 #include <esp_now.h>
@@ -409,7 +409,7 @@ void loop() {
     lastSendMs = nowMs;
   }
 }
-
+```
 ## Datasheets
 
 All component datasheets are stored in the `datasheets/` folder.
