@@ -14,7 +14,16 @@ A two-device, wireless **acoustic dosimeter** that estimates cumulative sound ex
 
 ---
 
-## 2) Sensor Device
+## 2) Sensor Device (Detailed Sketch + How it Works)
+
+<img width="1472" height="960" alt="image" src="https://github.com/user-attachments/assets/6d364bc0-3ce9-45cc-906d-f06a0046511f" />
+
+<img width="1204" height="996" alt="image" src="https://github.com/user-attachments/assets/acc42f54-17c2-4bea-996f-8193d15734f2" />
+
+<img width="952" height="1269" alt="image" src="https://github.com/user-attachments/assets/83bdb458-92e8-441b-a486-2f5bb4bc17c9" />
+
+
+
 
 
 **Role:** Captures ambient audio, runs DSP locally, and transmits a single cumulative exposure metric.
@@ -34,6 +43,11 @@ A two-device, wireless **acoustic dosimeter** that estimates cumulative sound ex
 ---
 
 ## 3) Display Device (Detailed Sketch + How it Works)
+
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/1c480b09-5caa-4c21-bfd6-885e6fb60f5e" />
+
+<img width="789" height="455" alt="image" src="https://github.com/user-attachments/assets/484eeb7d-372c-400b-b446-1e4922426818" />
+
 
 
 **Role:** Receives the exposure index and visualizes it as an analog gauge needle; provides minimal user interaction.
