@@ -8,7 +8,7 @@ A two-device, wireless **acoustic dosimeter** that estimates cumulative sound ex
 
 ## 1) Overview Slide (Title, What it Does, General Sketch)
 
-**W.hat it does:** The sensing module continuously samples ambient audio using a MEMS microphone, extracts energy and frequency features (RMS + FFT band energy), and integrates them over time into a single **exposure index**. The display module receives that index wirelessly and visualizes it as a slow-moving gauge needle, with an LED and a single button for reset/calibration.
+**What it does:** The sensing module continuously samples ambient audio using a MEMS microphone, extracts energy and frequency features (RMS + FFT band energy), and integrates them over time into a single **exposure index**. The display module receives that index wirelessly and visualizes it as a slow-moving gauge needle, with an LED and a single button for reset/calibration.
 
 **Physical features (sketch):** see general sketch above.
 
@@ -36,7 +36,6 @@ A two-device, wireless **acoustic dosimeter** that estimates cumulative sound ex
 
 ## 3) Display Device (Detailed Sketch + How it Works)
 
-![Display device sketch](images/03_display_device_sketch.png)
 
 **Role:** Receives the exposure index and visualizes it as an analog gauge needle; provides minimal user interaction.
 
