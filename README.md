@@ -2,7 +2,8 @@
 
 A two-device, wireless **acoustic dosimeter** that estimates cumulative sound exposure over time and presents it as a slow-moving analog gauge needle. A compact sensing node performs DSP (RMS + FFT band-energy features + time-weighted integration) and transmits a single exposure metric to a tabletop display with a stepper-driven needle, LED status, and a button.
 
-![General concept sketch](images/01_general_sketch.png)
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/a86f71ff-9956-4151-b6a1-7352dbb66312" />
+
 
 ---
 
