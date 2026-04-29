@@ -60,11 +60,13 @@ A two-device, wireless **acoustic dosimeter** that estimates cumulative sound ex
 
 ### Figure A: Device-to-Device Communication
 
-![Communication flow](images/04a_comm_flow.png)
+<img width="1472" height="440" alt="image" src="https://github.com/user-attachments/assets/7ff9329c-b44c-4a13-a172-a496187cffa7" />
+
 
 ### Figure B: Detailed System Architecture (HW + SW)
 
-![HW/SW architecture diagram](images/04b_system_architecture_hw_sw.png)
+<img width="1472" height="960" alt="image" src="https://github.com/user-attachments/assets/c388b913-5952-45cb-b66d-2c3eb67a037c" />
+
 
 **How the two devices communicate:** The sensing node transmits an exposure index (0-100) over ESP-NOW (or BLE) at a low update rate; the display node acknowledges receipt (optional) and uses smoothing before commanding the stepper position. This keeps the link reliable and low-power while preserving privacy by keeping raw audio on the sensing device.
 
