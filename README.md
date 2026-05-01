@@ -45,7 +45,6 @@ A two-device, wireless **acoustic dosimeter** that estimates cumulative sound ex
 
 ## 3) Display Device (Detailed Sketch + How it Works)
 
-<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/1c480b09-5caa-4c21-bfd6-885e6fb60f5e" />
 
 <img width="789" height="455" alt="image" src="https://github.com/user-attachments/assets/484eeb7d-372c-400b-b446-1e4922426818" />
 
