@@ -50,7 +50,7 @@ A two-device, wireless **acoustic dosimeter** that estimates cumulative sound ex
 
 
 
-**Role:** Receives the exposure index and visualizes it as an analog gauge needle; provides minimal user interaction.
+**Role:** Receives the exposure index and visualizes it as an OLED screen as well as an analog needle gauge; provides minimal user interaction.
 
 **How it works (high level):**
 - The display MCU receives exposure updates wirelessly.
