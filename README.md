@@ -23,6 +23,7 @@ A two-device, wireless **acoustic dosimeter** that estimates cumulative sound ex
 
 <img width="1204" height="996" alt="image" src="https://github.com/user-attachments/assets/acc42f54-17c2-4bea-996f-8193d15734f2" />
 
+<img width="1269" height="952" alt="image" src="https://github.com/user-attachments/assets/ed8d278b-54cf-463c-9f85-27035e2ea704" />
 
 
 
